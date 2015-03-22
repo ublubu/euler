@@ -1,4 +1,4 @@
-import qualified Euler5.Euler5 as Euler
+import qualified Euler6.Euler6 as Euler
 
 main :: IO()
 main = Euler.main
